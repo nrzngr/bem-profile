@@ -1,0 +1,12 @@
+{
+    "contact_name":"Clara",
+    "language_code":"en",
+    "contact_type":"customer",
+    "contact_persons": [
+       {
+         "first_name":"Tom",
+         "email": "rinoridlojulianto@gmail.com",
+         
+       }
+    ]
+ }
